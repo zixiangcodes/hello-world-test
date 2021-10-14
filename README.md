@@ -1,7 +1,5 @@
 # hello-world-test
 
-My test attempt to use Git and Github.
-
-The sky is dark and going to rain..
+My first test attempt to use Git and Github.
 
 Test test test..
